@@ -1,16 +1,55 @@
-## Hi there 👋
+# Erick Hernández
+Data Analyst | Python | SQL | Tableau | Business Intelligence
 
-<!--
-**ErickHdez616/ErickHdez616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in transforming raw data into strategic business insights through structured analysis and executive-level visualization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Focus Areas
+- KPI modeling & performance evaluation
+- Demand vs competition analysis
+- ROI-based investment modeling
+- Market performance analysis
+
+---
+
+## 🛠️ Technical Stack
+- Python (Pandas, NumPy)
+- SQL (Joins, Aggregations, KPI computation)
+- Tableau
+- Power BI
+- Excel
+
+---
+
+## 📊 Featured Projects
+
+### 🏡 Airbnb Investment Analysis – Mexico City
+End-to-end market evaluation using Python, SQL, and Tableau.  
+Includes KPI modeling, occupancy analysis, revenue estimation, and composite ROI scoring.
+
+🔗 [View Project](https://github.com/ErickHdez616/Airbnb_Investment_Analysis_Mexico_City)
+
+---
+
+### 🛒 Retail Customer Behavior Analysis
+Customer segmentation and purchasing pattern analysis using Python and SQL.
+
+🔗 [View Project](https://github.com/ErickHdez616/Online-Retails-Sales-Customer-Behavior-Analysis)
+
+---
+
+### 👥 Workforce Optimization Analysis
+Employee performance and compensation insights using SQL and BI tools.
+
+🔗 [View Project](https://github.com/ErickHdez616/Employee-Analysis-Workforce-Optimization)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/erick-hern%C3%A1ndez-/
+- Email: erickhdez1306@gmail.com
+
+---
+
+> Data-driven decision making is not about numbers — it's about structured reasoning.
