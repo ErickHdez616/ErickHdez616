@@ -35,7 +35,7 @@ Includes KPI modeling, occupancy analysis, revenue estimation, and composite ROI
 ### 🛒 Retail Customer Behavior Analysis
 Customer segmentation and purchasing pattern analysis using Python and SQL.
 
-🔗 [View Project](https://github.com/ErickHdez616/Online-Retails-Sales-Customer-Behavior-Analysis)
+🔗 [View Project](https://github.com/ErickHdez616/Retail-sales-customer-behavior-analysis)
 
 ---
 
